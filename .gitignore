@@ -1,0 +1,17 @@
+# Godot cache / imports (regenerated on first open)
+.godot/
+*.tmp
+
+# Exported builds (attach the .exe to a GitHub Release instead; it's over GitHub's 100 MB file limit)
+builds/
+
+# Local-only reference material (third-party screenshots and a large video)
+photos-for-inspiration/
+
+# Windows shortcuts store absolute paths of one machine
+*.lnk
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
